@@ -2,8 +2,6 @@
 author: Zhang Han
 date: "2023-09-02"
 description: A try
-#tags:
-#- thumbnail
 thumbnail: images/landscape.jpg
 title: A try
 ---

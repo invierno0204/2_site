@@ -1,6 +1,6 @@
   [[main]]
   name = "主站"
-  identifier = "main"
+  identifier = "home"
   weight = 100
   url = "/zh/"
 
@@ -11,13 +11,40 @@
   url = "/zh/post/"
 
   [[main]]
-  name = "关于"
+  name = "项目"
   weight = 300
-  identifier = "about"
-  url = "/zh/about/"
+  identifier = "portfolio"
+  url = "/zh/portfolio/"
 
   [[main]]
-  name = "联系"
+  name = "关于"
   weight = 400
+  identifier = "about"
+  url = "/zh/about/"
+  
+  [[main]]
+  name = "成就"
+  weight = 500
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "获奖"
+  weight = 510
+  identifier = "awards"
+  url = "/zh/awards/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "证书"
+  weight = 520
+  identifier = "certifications"
+  url = "/zh/certifications/"
+  parent = "accomplishments"
+  
+  [[main]]
+  name = "联系"
+  weight = 600
   identifier = "contact"
   url = "/zh/contact/"
+
+ 
