@@ -1,7 +1,7 @@
 
 title = "I'm Zhang Han"
 author = "Zhang Han"
-#copyright = "2020-2021"
+copyright = "2020-{{ YEAR }}"
 description = "an undergraduate at USTC"
 profilePicture = "images/profile.jpg"
 keywords = ""
